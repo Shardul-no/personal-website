@@ -1,0 +1,29 @@
+h1 {
+    color:#3E065F;
+    text-align: center;
+    font-size: 50px;
+    
+}
+.nav-bar {
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-size: 30;
+    text-align: center;
+  }
+.nav-bar :hover {
+    background-color: #8E05C2;
+    text-decoration: none;
+  }
+.about-me {
+    color: white;
+    font-family: 'Dongle', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+.links {
+    color: white;
+    text-decoration: none;
+    font-family: 'Dongle', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
